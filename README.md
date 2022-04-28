@@ -20,6 +20,6 @@ Estudante: <img align="center" alt="Gonzales-MySQL" height="30" width="40" src="
   <a href="https://www.linkedin.com/in/jefersongonzales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:jeferson.hgf97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/LaraSampaio20/LaraSampaio20/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JefersonHGonzales/JefersonHGonzales/blob/output/github-contribution-grid-snake.svg)
     
   </div>
